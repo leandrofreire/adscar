@@ -1,1 +1,1 @@
-"# adscar" 
+Sistemas para criar as campanhas
