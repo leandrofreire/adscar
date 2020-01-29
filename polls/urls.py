@@ -7,7 +7,7 @@ urlpatterns = [
     # View de detalhes
     path('<int:question_id>/', views.detail, name='detail'),
     # View de resultados das pesquisas
-    path('<int:question_id>/', views.results, name='results'),
+    path('<int:question_id>/results/', views.results, name='results'),
     # View dos votos
-    path('<int:question_id>/', views.vote, name='vote'),
+    path('<int:question_id>/vote/', views.vote, name='vote'),
 ]
