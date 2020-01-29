@@ -20,5 +20,5 @@ urlpatterns = [
     path('campanhas/', include('campanhas.urls')),
     path('admin/', admin.site.urls),
     #polls aplication
-    path('polls/', include('polls.urls')),
+    path('polls/', include('polls.urls', namespace='polls')),
 ]
