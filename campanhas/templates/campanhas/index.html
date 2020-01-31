@@ -1,16 +1,17 @@
 {% extends 'campanhas/base.html' %}
+{% block title %} Campanhas {% endblock title %}
 {% block content %}
-{% if campanhas %}
-    <div>
-        {% for campanha in campanhas %}
-        <h3>{{ campanha.titulo_campanha }}</h3>
-        <img class="" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
-        {% endfor %}
-    </div>
-{% else %}
-    <p>Nenhuma imagem encontrada</p>
-{% endif %}
-{% endblock %}
+    {% if campanhas %}
+        <div>
+            {% for campanha in campanhas %}
+            <h3>{{ campanha.titulo_campanha }}</h3>
+            <img class="" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
+            {% endfor %}
+        </div>
+    {% else %}
+        <p>Nenhuma imagem encontrada</p>
+    {% endif %}
+{% endblock content %}
 
 
 
