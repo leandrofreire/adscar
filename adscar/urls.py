@@ -23,4 +23,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     #polls aplication
     path('polls/', include('polls.urls', namespace='polls')),
-] #+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
