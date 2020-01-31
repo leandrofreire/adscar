@@ -2,7 +2,7 @@
     <div>
         {% for campanha in campanhas %}
         <h3>{{ campanha.titulo_campanha }}</h3>
-        <img class="" src="{{campanha.imagem}}" alt="{{ campanha.titulo_campanha }}">
+        <img class="" src="{{ campanha.imagem }}" alt="{{ campanha.titulo_campanha }}">
         {% endfor %}
     </div>
 {% else %}
