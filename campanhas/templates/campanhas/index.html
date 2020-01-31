@@ -1,3 +1,5 @@
+{% extends 'campanhas/base.html' %}
+{% block content %}
 {% if campanhas %}
     <div>
         {% for campanha in campanhas %}
@@ -8,7 +10,7 @@
 {% else %}
     <p>Nenhuma imagem encontrada</p>
 {% endif %}
-
+{% endblock %}
 
 
 
