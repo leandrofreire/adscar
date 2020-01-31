@@ -5,6 +5,6 @@ from campanhas.models import Campanha
 
 
 def index(request):
-    campanhas = Campanha.objects.order_by('-titulo_campanha')[:5]
+    campanhas = Campanha.objects.all()
     context = {'campanhas': campanhas}
     return render(request, 'campanhas/index.html', context)
