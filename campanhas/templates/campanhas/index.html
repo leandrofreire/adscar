@@ -1,14 +1,21 @@
+{% extends 'campanhas/base.html' %}
+{% block title %} Campanhas {% endblock title %}
+{% block content %}
 {% if campanhas %}
-    <div>
-        {% for campanha in campanhas %}
-        <h3>{{ campanha.titulo_campanha }}</h3>
-        <img class="" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
-        {% endfor %}
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+            {% for campanha in campanhas %}
+            <h1>OK</h1>
+                <img class="d-block w-100" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
+            {% endfor %}
+        </div>
+      </div>
     </div>
 {% else %}
-    <p>Nenhuma imagem encontrada</p>
+    <p>Não foi possível carregar nenhuma campanha</p>
 {% endif %}
-
+{% endblock content %}
 
 
 
