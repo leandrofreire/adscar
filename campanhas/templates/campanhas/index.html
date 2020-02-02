@@ -3,10 +3,12 @@
 {% block content %}
     {% if campanhas %}
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox">
+      <div class="carousel-inner bg-info" role="listbox">
           {% for campanha in campanhas %}
             <div class="carousel-item {% if forloop.first %} active {% endif %}">
-                <img class="d-block w-100" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
+                <div class="d-flex align-items-center justify-content-center min-vh-100">
+                    <img class="d-block w-100" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
+                </div>
             </div>
           {% endfor %}
       </div>
