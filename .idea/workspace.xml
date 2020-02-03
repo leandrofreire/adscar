@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/campanhas/templates/campanhas/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="116" selection-start-line="9" selection-start-column="116" selection-end-line="9" selection-end-column="116" />
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -203,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/campanhas/templates/campanhas/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="116" selection-start-line="9" selection-start-column="116" selection-end-line="9" selection-end-column="116" />
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
         </state>
       </provider>
     </entry>
