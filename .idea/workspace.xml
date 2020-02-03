@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +47,9 @@
       <recent name="C:\Users\Avanxo\Desktop\adscar\campanhas\templates\campanhas" />
       <recent name="C:\Users\Avanxo\Desktop\adscar\polls\templates\polls" />
     </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />

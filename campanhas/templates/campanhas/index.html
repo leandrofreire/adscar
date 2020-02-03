@@ -6,10 +6,7 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner bg-info">
               {% for campanha in campanhas %}
-                <div class="carousel-item {% if forloop.first %} active {% endif %}">
-                    <div class="d-flex align-items-center justify-content-center min-vh-100">
-                        <img class="mw-100" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}" alt="Max-width 100%">
-                    </div>
+                <div class="carousel-item {% if forloop.first %} active {% endif %}" style="background-image: url('{{ campanha.imagem.url }}')">
                 </div>
               {% endfor %}
           </div>
