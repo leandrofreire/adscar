@@ -1,20 +1,23 @@
 {% extends 'campanhas/base.html' %}
 {% block title %} Campanhas {% endblock title %}
 {% block content %}
-{% if campanhas %}
+    {% if campanhas %}
+<div class="container-fluid px-0">
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-            {% for campanha in campanhas %}
-            <h1>OK</h1>
-                <img class="d-block w-100" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
-            {% endfor %}
-        </div>
+      <div class="carousel-inner bg-info" role="listbox">
+          {% for campanha in campanhas %}
+            <div class="carousel-item {% if forloop.first %} active {% endif %}">
+                <div class="d-flex align-items-center justify-content-center min-vh-100">
+                    <img class="display-1" src="{{ campanha.imagem.url }}" alt="{{ campanha.titulo_campanha }}">
+                </div>
+            </div>
+          {% endfor %}
       </div>
     </div>
-{% else %}
-    <p>Não foi possível carregar nenhuma campanha</p>
-{% endif %}
+</div>
+    {% else %}
+        <p>Não foi possível carregar nenhuma campanha</p>
+    {% endif %}
 {% endblock content %}
 
 
