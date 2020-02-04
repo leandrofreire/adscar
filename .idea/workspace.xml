@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-getting-started" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -65,6 +62,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580820734015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580820734015" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580734828525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
