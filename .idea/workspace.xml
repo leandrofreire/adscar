@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adscar/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/adscar/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adscar/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/adscar/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-345" />
-    <option name="y" value="195" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
   </component>
   <component name="ProjectId" id="1X4es3oQR9XBEZDNLZ05MfKRT48" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,9 +75,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="338" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1580847188907" />
-    <state x="379" y="0" width="818" height="728" key="find.popup" timestamp="1580907711886">
+    <state x="379" y="0" width="818" height="728" key="find.popup" timestamp="1580908123141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="0" width="818" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580907711886" />
+    <state x="379" y="0" width="818" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580908123141" />
   </component>
 </project>
