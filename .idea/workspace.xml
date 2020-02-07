@@ -4,6 +4,7 @@
     <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
