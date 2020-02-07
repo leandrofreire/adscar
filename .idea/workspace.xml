@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="" />
+    <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +70,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580905765221" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580992862709">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581079210957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580992862709" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581079210957" />
     <state x="338" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580847188907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
