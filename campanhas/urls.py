@@ -6,4 +6,5 @@ app_name = 'campanhas'
 
 urlpatterns = [
     path('', views.index, name='index'),
+    path('landing', views.landing, name='landing'),
 ]

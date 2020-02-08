@@ -8,3 +8,7 @@ def index(request):
     campanhas = Campanha.objects.all()
     context = {'campanhas': campanhas}
     return render(request, 'campanhas/index.html', context)
+
+
+def landing(request):
+    return render(request, 'campanhas/landing.html')
