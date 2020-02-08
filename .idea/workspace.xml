@@ -4,6 +4,7 @@
     <list default="true" id="a607d0c9-6063-42ef-899c-cbc63296e47f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/campanhas/templates/campanhas/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Avanxo\Desktop\adscar\adscar" />
+      <recent name="C:\Users\Avanxo\Desktop\adscar\campanhas\static" />
+      <recent name="C:\Users\Avanxo\Desktop\adscar\campanhas\imagens" />
       <recent name="C:\Users\Avanxo\Desktop\adscar\campanhas\templates\campanhas" />
       <recent name="C:\Users\Avanxo\Desktop\adscar\polls\templates\polls" />
     </key>
@@ -66,17 +70,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580905765221" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580734828525">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581079210957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580734828525" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581079210957" />
     <state x="338" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580847188907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="338" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1580847188907" />
-    <state x="379" y="0" width="818" height="728" key="find.popup" timestamp="1580908123141">
+    <state x="379" y="0" width="818" height="728" key="find.popup" timestamp="1581020541271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="0" width="818" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580908123141" />
+    <state x="379" y="0" width="818" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581020541271" />
   </component>
 </project>

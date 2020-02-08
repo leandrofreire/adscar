@@ -2,18 +2,28 @@
 {% block title %} Campanhas {% endblock title %}
 {% block content %}
     {% if campanhas %}
-    <div class="container-fluid px-0">
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+    <header>
+        <div class="container-fluid px-0">
+        <div class="carousel slide" data-ride="carousel">
           <div class="carousel-inner bg-info">
               {% for campanha in campanhas %}
-                <div class="carousel-item {% if forloop.first %} active {% endif %}" style="background-image: url('{{ campanha.imagem.url }}')">
+                <div class="carousel-item {% if forloop.first %} active {% endif %}">
+                    <img src="{{ campanha.imagem.url }}" alt="">
                 </div>
               {% endfor %}
           </div>
         </div>
     </div>
     {% else %}
-        <p>Não foi possível carregar nenhuma campanha</p>
+        <div class="container">
+            <h1 class="text-center" style="margin-top: 25%;">Anúncie aqui! </h1>
+            <p class="text-center">Divulgue sua empresa através de milhares de carros por aplicativos e alcance mais clientes</p>
+            <p class="text-center">(11) 98587 6599</p>
+            <p class="text-center">adscreen.com.br</p>
+            <p class="text-center">comercial@adscreen.com.br</p>
+        </div>
+    </header>
+
     {% endif %}
 {% endblock content %}
 
