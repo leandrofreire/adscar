@@ -29,7 +29,7 @@ SECRET_KEY = 'git*x2m^1j-1ivtvu6*&3)_7@lchd8jxvxg-y*4=4*g^(g7%+6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['adscreenapp.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['adscreenapp.herokuapp.com', '127.0.0.1', 'www.adscreen.com.br', 'adscreen.com.br']
 
 
 # Application definition
