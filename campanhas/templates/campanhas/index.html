@@ -8,7 +8,7 @@
           <div class="carousel-inner bg-info">
               {% for campanha in campanhas %}
                 <div class="carousel-item {% if forloop.first %} active {% endif %}">
-                    <img src="{{ campanha.imagem.url }}" alt="" style="background-size: contain;">
+                    <img src="{{ campanha.imagem.url }}" alt="">
                 </div>
               {% endfor %}
           </div>
