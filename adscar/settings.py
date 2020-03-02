@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'campanhas.apps.CampanhasConfig',
     'polls.apps.PollsConfig',
+    'landing.apps.LandingConfig',
 ]
 
 MIDDLEWARE = [
